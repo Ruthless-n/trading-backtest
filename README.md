@@ -114,11 +114,3 @@ Acesso ao docs: http://localhost:8000/docs
 
 ### Indicators
 - POST /data/indicators/update – Calcula indicadores técnicos
-## Rodando os testes
-
-Para rodar os testes, rode o seguinte comando
-
-```bash
-  npm run test
-```
-
